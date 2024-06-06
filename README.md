@@ -11,7 +11,10 @@
 
 
 <h1> FIND ROBOT </h1> 
+
+![image_2024-06-06_17-11-46](https://github.com/samandarmaxsutov/Robo-Cup/assets/101328871/6e8eadaf-dd84-40a4-943f-1e39c56b7440)
+
 <br>
 https://github.com/samandarmaxsutov/Robo-Cup/blob/main/find_pattern.py
 <br>
-![image_2024-06-06_17-11-46](https://github.com/samandarmaxsutov/Robo-Cup/assets/101328871/6e8eadaf-dd84-40a4-943f-1e39c56b7440)
+
